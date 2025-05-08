@@ -1,4 +1,4 @@
-# study
+# 彻底理解deepseek
 
 deepseek 671b 参数配置
 https://huggingface.co/deepseek-ai/DeepSeek-R1/blob/main/config.json
